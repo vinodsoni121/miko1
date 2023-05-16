@@ -1,0 +1,1 @@
+{columns=[col1 integer, col2 string], table_name=my_table}
